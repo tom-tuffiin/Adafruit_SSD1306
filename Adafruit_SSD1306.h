@@ -1,5 +1,5 @@
 /*!
- * @file Adafruit_SSD1306.h
+ * @file Adafruit_SSD1306
  *
  * This is part of for Adafruit's SSD1306 library for monochrome
  * OLED displays: http://www.adafruit.com/category/63_98
@@ -21,8 +21,8 @@
  *
  */
 
-#ifndef _Adafruit_SSD1306_H_
-#define _Adafruit_SSD1306_H_
+#ifndef _Adafruit_SSD1306
+#define _Adafruit_SSD1306
 
 // ONE of the following three lines must be #defined:
 //#define SSD1306_128_64 ///< DEPRECTAED: old way to specify 128x64 screen
